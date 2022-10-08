@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="name">Abdul Azis</string>
+    <string name="title">Mobile Developer</string>
+    <string name="phone">+6281247199445</string>
+    <string name="email">abdul.azizz1108@gmail.com</string>
+    <string name="github">github.com/ziszz</string>
+</resources>
